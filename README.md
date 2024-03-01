@@ -1,1 +1,1 @@
-# ML-AI-JOB-and-skill-required-analysis
+Extracted the dataset from Kaggle and cleaned it by organizing the skills required for each job into separate columns, removed empty, and duplicate values, and categorized jobs as analyst, scientist, engineer, or AI role using Python o	Developed a tableau dashboard showcasing the top job locations, job role categories, and required skills.
